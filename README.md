@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## 📦 Spam / Ham Message Classifier
 
@@ -196,3 +197,7 @@ pip install flask-cors
 ---
 
 Let me know if you want a version of this as a downloadable file, or help generating `spam_detection_train.py` if not already present.
+=======
+# spam-detection-app
+GenAI Project
+>>>>>>> dd11fb384722365896f2121531afeefa114a1e5c
